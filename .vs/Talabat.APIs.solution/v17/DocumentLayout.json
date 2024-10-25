@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\course\\back\\08 ASP.NET Core Web APIs\\Talabat.APIs.solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8E001B-F18E-46B1-A8CB-523A6454165B}|Talabat.APIs\\Talabat.APIs.csproj|e:\\course\\back\\08 asp.net core web apis\\talabat.apis.solution\\talabat.apis\\middlwares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8E001B-F18E-46B1-A8CB-523A6454165B}|Talabat.APIs\\Talabat.APIs.csproj|solutionrelative:talabat.apis\\middlwares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8E001B-F18E-46B1-A8CB-523A6454165B}|Talabat.APIs\\Talabat.APIs.csproj|e:\\course\\back\\08 asp.net core web apis\\talabat.apis.solution\\talabat.apis\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8E001B-F18E-46B1-A8CB-523A6454165B}|Talabat.APIs\\Talabat.APIs.csproj|solutionrelative:talabat.apis\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8E001B-F18E-46B1-A8CB-523A6454165B}|Talabat.APIs\\Talabat.APIs.csproj|e:\\course\\back\\08 asp.net core web apis\\talabat.apis.solution\\talabat.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8E001B-F18E-46B1-A8CB-523A6454165B}|Talabat.APIs\\Talabat.APIs.csproj|solutionrelative:talabat.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8E001B-F18E-46B1-A8CB-523A6454165B}|Talabat.APIs\\Talabat.APIs.csproj|e:\\course\\back\\08 asp.net core web apis\\talabat.apis.solution\\talabat.apis\\errors\\apiexceptionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8E001B-F18E-46B1-A8CB-523A6454165B}|Talabat.APIs\\Talabat.APIs.csproj|solutionrelative:talabat.apis\\errors\\apiexceptionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8E001B-F18E-46B1-A8CB-523A6454165B}|Talabat.APIs\\Talabat.APIs.csproj|e:\\course\\back\\08 asp.net core web apis\\talabat.apis.solution\\talabat.apis\\errors\\apivalidationerrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8E001B-F18E-46B1-A8CB-523A6454165B}|Talabat.APIs\\Talabat.APIs.csproj|solutionrelative:talabat.apis\\errors\\apivalidationerrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8E001B-F18E-46B1-A8CB-523A6454165B}|Talabat.APIs\\Talabat.APIs.csproj|e:\\course\\back\\08 asp.net core web apis\\talabat.apis.solution\\talabat.apis\\errors\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8E001B-F18E-46B1-A8CB-523A6454165B}|Talabat.APIs\\Talabat.APIs.csproj|solutionrelative:talabat.apis\\errors\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8E001B-F18E-46B1-A8CB-523A6454165B}|Talabat.APIs\\Talabat.APIs.csproj|e:\\course\\back\\08 asp.net core web apis\\talabat.apis.solution\\talabat.apis\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8E001B-F18E-46B1-A8CB-523A6454165B}|Talabat.APIs\\Talabat.APIs.csproj|solutionrelative:talabat.apis\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "E:\\course\\back\\08 ASP.NET Core Web APIs\\Talabat.APIs.solution\\Talabat.APIs\\Middlwares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Talabat.APIs\\Middlwares\\ExceptionMiddleware.cs",
+              "ToolTip": "E:\\course\\back\\08 ASP.NET Core Web APIs\\Talabat.APIs.solution\\Talabat.APIs\\Middlwares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Talabat.APIs\\Middlwares\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAYwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:30:37.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\course\\back\\08 ASP.NET Core Web APIs\\Talabat.APIs.solution\\Talabat.APIs\\Program.cs",
+              "RelativeDocumentMoniker": "Talabat.APIs\\Program.cs",
+              "ToolTip": "E:\\course\\back\\08 ASP.NET Core Web APIs\\Talabat.APIs.solution\\Talabat.APIs\\Program.cs",
+              "RelativeToolTip": "Talabat.APIs\\Program.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T16:51:04.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiValidationErrorResponse.cs",
+              "DocumentMoniker": "E:\\course\\back\\08 ASP.NET Core Web APIs\\Talabat.APIs.solution\\Talabat.APIs\\Errors\\ApiValidationErrorResponse.cs",
+              "RelativeDocumentMoniker": "Talabat.APIs\\Errors\\ApiValidationErrorResponse.cs",
+              "ToolTip": "E:\\course\\back\\08 ASP.NET Core Web APIs\\Talabat.APIs.solution\\Talabat.APIs\\Errors\\ApiValidationErrorResponse.cs",
+              "RelativeToolTip": "Talabat.APIs\\Errors\\ApiValidationErrorResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T16:43:24.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\course\\back\\08 ASP.NET Core Web APIs\\Talabat.APIs.solution\\Talabat.APIs\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Talabat.APIs\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\course\\back\\08 ASP.NET Core Web APIs\\Talabat.APIs.solution\\Talabat.APIs\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Talabat.APIs\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAIwC4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T21:06:45.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "E:\\course\\back\\08 ASP.NET Core Web APIs\\Talabat.APIs.solution\\Talabat.APIs\\Errors\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Talabat.APIs\\Errors\\ApiResponse.cs",
+              "ToolTip": "E:\\course\\back\\08 ASP.NET Core Web APIs\\Talabat.APIs.solution\\Talabat.APIs\\Errors\\ApiResponse.cs",
+              "RelativeToolTip": "Talabat.APIs\\Errors\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T20:51:33.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BuggyController.cs",
+              "DocumentMoniker": "E:\\course\\back\\08 ASP.NET Core Web APIs\\Talabat.APIs.solution\\Talabat.APIs\\Controllers\\BuggyController.cs",
+              "RelativeDocumentMoniker": "Talabat.APIs\\Controllers\\BuggyController.cs",
+              "ToolTip": "E:\\course\\back\\08 ASP.NET Core Web APIs\\Talabat.APIs.solution\\Talabat.APIs\\Controllers\\BuggyController.cs",
+              "RelativeToolTip": "Talabat.APIs\\Controllers\\BuggyController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:43:43.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiExceptionResponse.cs",
+              "DocumentMoniker": "E:\\course\\back\\08 ASP.NET Core Web APIs\\Talabat.APIs.solution\\Talabat.APIs\\Errors\\ApiExceptionResponse.cs",
+              "RelativeDocumentMoniker": "Talabat.APIs\\Errors\\ApiExceptionResponse.cs",
+              "ToolTip": "E:\\course\\back\\08 ASP.NET Core Web APIs\\Talabat.APIs.solution\\Talabat.APIs\\Errors\\ApiExceptionResponse.cs",
+              "RelativeToolTip": "Talabat.APIs\\Errors\\ApiExceptionResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:52:36.365Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

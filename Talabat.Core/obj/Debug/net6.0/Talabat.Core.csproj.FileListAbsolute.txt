@@ -1,0 +1,11 @@
+E:\course\back\08 ASP.NET Core Web APIs\Talabat.APIs.solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+E:\course\back\08 ASP.NET Core Web APIs\Talabat.APIs.solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+E:\course\back\08 ASP.NET Core Web APIs\Talabat.APIs.solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+E:\course\back\08 ASP.NET Core Web APIs\Talabat.APIs.solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\course\back\08 ASP.NET Core Web APIs\Talabat.APIs.solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+E:\course\back\08 ASP.NET Core Web APIs\Talabat.APIs.solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+E:\course\back\08 ASP.NET Core Web APIs\Talabat.APIs.solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+E:\course\back\08 ASP.NET Core Web APIs\Talabat.APIs.solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+E:\course\back\08 ASP.NET Core Web APIs\Talabat.APIs.solution\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+E:\course\back\08 ASP.NET Core Web APIs\Talabat.APIs.solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+E:\course\back\08 ASP.NET Core Web APIs\Talabat.APIs.solution\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll

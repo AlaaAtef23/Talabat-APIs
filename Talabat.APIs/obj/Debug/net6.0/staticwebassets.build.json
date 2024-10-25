@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "fGOFsuPK8ZyMRZbVAcxiogfOCFCRdZV3+SEcvnTtMHM=",
+  "Source": "Talabat.APIs",
+  "BasePath": "_content/Talabat.APIs",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Talabat.APIs\\wwwroot",
+      "Source": "Talabat.APIs",
+      "ContentRoot": "E:\\course\\back\\08 ASP.NET Core Web APIs\\Talabat.APIs.solution\\Talabat.APIs\\wwwroot\\",
+      "BasePath": "_content/Talabat.APIs",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\course\\back\\08 ASP.NET Core Web APIs\\Talabat.APIs.solution\\Talabat.APIs\\wwwroot\\images\\products\\sb-ang1.png",
+      "SourceId": "Talabat.APIs",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\course\\back\\08 ASP.NET Core Web APIs\\Talabat.APIs.solution\\Talabat.APIs\\wwwroot\\",
+      "BasePath": "_content/Talabat.APIs",
+      "RelativePath": "images/products/sb-ang1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang1.png"
+    }
+  ]
+}
